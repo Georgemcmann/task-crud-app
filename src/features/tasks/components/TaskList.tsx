@@ -1,5 +1,5 @@
 import type { Task, TaskFilter } from "../types/task";
-import { EmptyState } from "./EmptyState";
+import { EmptyState } from "./EmptyState.tsx";
 import { TaskItem } from "./TaskItem";
 
 type TaskListProps = {
